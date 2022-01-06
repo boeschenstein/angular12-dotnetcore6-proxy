@@ -1,0 +1,11 @@
+{
+  "/weatherforecast": {
+    "target": "http://localhost:5240",
+    "secure": false,
+    "logLevel": "debug",
+    "ws": true,
+    "changeOrigin": true,
+    "proxyTimeout": 900000,
+    "timeout": 900000
+  }
+}
